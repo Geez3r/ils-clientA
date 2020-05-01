@@ -1,6 +1,6 @@
 name: FL_Pen_2017_FL Pen FHCF
 region: america
-limit: 1001
+limit: 100
 excess: 25
 aggregate:
   limit: 100
