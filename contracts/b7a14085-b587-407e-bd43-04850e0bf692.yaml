@@ -1,0 +1,10 @@
+name: test1
+region: america
+limit: 1001
+excess: 25
+aggregate:
+  limit: 100
+  excess: 100
+startDate: null
+currency: AUD
+mode: Standalone
