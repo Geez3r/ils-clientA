@@ -6,7 +6,7 @@ nodeDataArray:
   - key: 1
     loc: 10 50
     name: Contract 1
-    region: north america
+    region: antarctica
     highlighted: false
     type: umbrellaHorizontal
     curviness: 1
