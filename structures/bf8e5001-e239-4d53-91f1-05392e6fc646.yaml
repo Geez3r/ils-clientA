@@ -1,0 +1,21 @@
+name: Structure 1
+id: '3434'
+branchId: 934DJX
+program: Suncorp PgmA
+nodeDataArray:
+  - key: 1
+    loc: 10 50
+    name: Contract 1
+    region: pacific ocean
+    highlighted: false
+    type: umbrellaHorizontal
+    curviness: 1
+    sartDate: 01/01/2020
+    limit: 10000
+    excess: 25
+    perils:
+      - 0
+      - 12
+    testCases: []
+    aggregateLimi: 100
+    aggregateExcess: 200
