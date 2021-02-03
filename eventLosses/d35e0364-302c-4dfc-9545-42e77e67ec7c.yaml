@@ -1,7 +1,7 @@
 id: 0
 name: Hurrican Isaias
 perilType: USHU
-date: '2020-09-30'
+date: '2020-10-30'
 losses:
   - cedent: Ball InsCo
     class: Property
