@@ -1,0 +1,30 @@
+id: 1
+name: Hurrican Isaias
+perilType: JPEQ
+date: '2020-09-30'
+losses:
+  - cedent: Ball InsCo
+    class: Property
+    distribution: Lognormal
+    stdDeviation: 200000
+    values:
+      - date: '2020-07-01'
+        paid: 0
+        unpaid: 2000000
+        distribution: Lognormal
+        stdDeviation: 3000000
+      - date: '2020-10-01'
+        paid: 100000
+        unpaid: 2500000
+        distribution: Lognormal
+        stdDeviation: 2500000
+      - date: '2020-08-01'
+        paid: 100000
+        unpaid: 2500000
+        distribution: Lognormal
+        stdDeviation: 2500000
+      - date: '2020-09-01'
+        paid: 200000
+        unpaid: 3000000
+        distribution: Lognormal
+        stdDeviation: 2500000
