@@ -1,12 +1,12 @@
 id: 0
 name: Hurrican Isaias
 perilType: USHU
-date: '2020-06-30'
+date: '2020-07-30'
 losses:
   - cedent: Ball InsCo
     class: Property
     distribution: Lognormal
-    stdDeviation: 100000
+    stdDeviation: 200000
     values:
       - date: '2020-07-01'
         paid: 0
